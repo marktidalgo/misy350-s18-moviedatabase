@@ -15,11 +15,11 @@ The database consists of two tables, Actors and Movies. The tables are related i
 
 ### Movies:
 
-#| Name| Year| Lead Actor| Producer| Edit|
+# | Name | Year | Lead Actor | Producer | Edit |
 ------------ | -------------
-1 |Mission Impossible| 1996 | Tom Cruise| Paula Wagner| 'Edit' 'Delete' 'Delete Ajax'
-2 |Devil Wears Prada| 2006 | Anne Hathaway| Wendy Finerman| 'Edit' 'Delete' 'Delete Ajax'
-3 |Fight Club| 1999 | Brad Pitt| Art Linson| 'Edit' 'Delete' 'Delete Ajax'
+1 | Mission Impossible | 1996 | Tom Cruise| Paula Wagner | 'Edit' 'Delete' 'Delete Ajax'
+2 | Devil Wears Prada | 2006 | Anne Hathaway| Wendy Finerman | 'Edit' 'Delete' 'Delete Ajax'
+3 | Fight Club | 1999 | Brad Pitt | Art Linson | 'Edit' 'Delete' 'Delete Ajax'
 
 
 
