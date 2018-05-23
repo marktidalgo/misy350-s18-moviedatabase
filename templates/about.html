@@ -1,0 +1,26 @@
+{% extends "home-base.html"%}
+{% block title %}About Page{% endblock %}
+
+{% block head%}
+  {{ super() }}
+{% endblock%}
+
+{% block page_content%}
+  <!-- Page Content -->
+  <div class="container">
+    <h1 class="mt-5"><i class="fa fa-address-card-o" aria-hidden="true"></i> About Me</h1>
+    <img src="/static/img/composite-photo.png" alt="Mark">
+    <p>This project is developed by <a id="developer" href="https://github.com/marktidalgo" data-toggle="tooltip" data-placement="top" title="Link to my repo">Mark Tidalgo</a>.</p>
+
+  </div>
+
+{% endblock%}
+
+{% block scripts%}
+  {{super()}}
+  <script>
+  $(document).ready(function () {
+    $('#developer').tooltip()
+  });
+  </script>
+{% endblock%}

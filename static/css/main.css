@@ -1,0 +1,9 @@
+div p {
+  font-family: 'Oswald', sans-serif !important;
+  color: red;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+  font-family: 'Oswald', sans-serif;
+  color: blue;
+}
