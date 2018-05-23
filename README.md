@@ -26,7 +26,7 @@ The database consists of two tables, Actors and Movies. The tables are related i
 
 ## Front-End Design
 
-The navbar incorporated by Bootstrap can take the user to any page in the web application, no matter what page the user is currently on. Click the Film logo to go to the Homepage, 'Artists' to look at all the artists in the database, 'Movies' to view all the Movies in the database and 'About' to view my information.
+The navbar incorporated by Bootstrap can take the user to any page in the web application, no matter what page the user is currently on. Click the Film logo to go to the Homepage, '**Artists**' to look at all the artists in the database, '**Movies**' to view all the Movies in the database and '**About**' to view my information.
 
 
 ## Setup Instructions:
